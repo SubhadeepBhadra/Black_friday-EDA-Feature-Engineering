@@ -188,5 +188,8 @@ Some examples of findings:
 
 ---
 
-## 👨‍💻 Author**Subhadeep Bhadra**Data Science / Machine Learning Project
+## 👨‍💻 Author
+**Subhadeep Bhadra**
+
+Data Science / Machine Learning Project
 
