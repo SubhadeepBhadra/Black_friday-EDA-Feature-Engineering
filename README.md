@@ -26,7 +26,7 @@ The goal is to identify key trends and develop features that will help in the **
 
 ---
 
-## 📂 Dataset
+## 📂 Dataset - https://www.kaggle.com/datasets/sdolezel/black-friday
 Source of dataset: Kaggle Black Friday Dataset
 
 Dataset includes:
