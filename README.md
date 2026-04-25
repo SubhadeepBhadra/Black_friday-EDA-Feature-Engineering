@@ -120,7 +120,6 @@ Then, converted to integer datatype.
 ---
 
 ## ⚙️ Feature Engineering
-Did:
 
 - Label Encoding
 - One-Hot Encoding
@@ -160,4 +159,34 @@ Final prepared data is now ready to train our models.
 
 ## 📌 Lessons from the Project
 From this project, I learned that:
+
+✔️ Exploratory Data Analysis
+✔️ Handling missing values
+✔️ Feature Engineering Techniques
+✔️ Categorical variable encoding
+✔️ Feature scaling
+✔️ Data preparation for ML pipelines
+
+---
+
+## 🚀 Future ScopeFuture directions may include:
+
+- Linear Regression
+- Random Forest Regressor
+- XGBoost Regressor
+- Hyperparameter tuning
+- Model Evaluation
+  
+---
+
+## 📷 Sample Analysis
+Some examples of findings:
+- Gender-based buying behavior
+- Age-based buying behavior
+- Category-wise buying behavior
+- Effect of occupation on spending
+
+---
+
+## 👨‍💻 Author**Subhadeep Bhadra**Data Science / Machine Learning Project
 
